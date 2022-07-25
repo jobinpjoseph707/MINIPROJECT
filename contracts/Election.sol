@@ -23,11 +23,11 @@ contract Election {
     );
 
     constructor () public {
-        addCandidate("Tom paul","B J P");
+        addCandidate("Tom paul","BJP");
         addCandidate("Sankar rajesh","INC");
-        addCandidate("Krishnan Kutyy","Communist Party Of India ");
-        addCandidate("Selvaraj ","All India Trinamool Congress");
-        addCandidate("Sandeep sabu","Bahujan Samaj Party");
+        addCandidate("Krishnan Kutyy","CPT");
+        addCandidate("Selvaraj","AITC");
+        addCandidate("Sandeep sabu","BSP");
         addCandidate("NOTA","None of the above");
     }
 
