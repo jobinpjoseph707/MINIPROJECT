@@ -1,4 +1,4 @@
-# BlockVote 🤝🏻
+# BlockVote 
 BlockVote is a blockchain based election system which lets voters elect candidate in an election.
 
 
@@ -15,4 +15,3 @@ BlockVote is a blockchain based election system which lets voters elect candidat
 2. Navigate to the folder: `cd miniproject`
 3. Install dependencies: `npm install`
 4. Run server: `npm run dev`
-
